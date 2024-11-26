@@ -2,7 +2,7 @@
 title: "weblog"
 #author: "fwala"
 date: "2024-10-23"
-date-modified: "2024-11-15"
+date-modified: "2024-11-23"
 categories: [0,weblog,diary,z]
 #image: "image.jpg"
 #draft: true
@@ -10,6 +10,7 @@ categories: [0,weblog,diary,z]
 
 _This page is to quickly dump material to be sorted properly into plans later._
 
+But is this just a distraction?
 
 -Probability and Statistics for Engineers and Scientists - Anthony Hayter (2021)
 
